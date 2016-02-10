@@ -1,14 +1,26 @@
-layout_spectrum: 0
 color:
   saturation: 0.5430108
-  lightness: 0.8297491
   brandStrength: 0.4713262
+  rhythmicContrast: 0.05555556
   brandColors:
     - '#FFFFFF'
     - '#6D665C'
     - '#A3A29A'
     - '#161616'
     - '#533A1F'
-  rhythmicContrast: 0.05555556
+  lightness: 0.8297491
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0
 typography_spectrum: 0.09856631
 name: "It's my life"
