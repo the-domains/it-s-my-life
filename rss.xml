@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[It's My Digital Life]]></title>
-        <description><![CDATA[It's My Digital Life]]></description>
-        <link>https://thegrid.ai/it-s-my-life/</link>
+        <title><![CDATA[It's my life]]></title>
+        <description><![CDATA[It's my life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:11:41 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/it-s-my-life/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.emc.com/domains/rsa/index.htm</p>]]></description>
-            <link>https://thegrid.ai/it-s-my-life/0dc153d2-c86d-4a4c-ad74-8de5a68281de/index.html</link>
-            <guid isPermaLink="false">0dc153d2-c86d-4a4c-ad74-8de5a68281de</guid>
-            <pubDate>Wed, 10 Feb 2016 18:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Nice jam</p>]]></description>
-            <link>https://thegrid.ai/it-s-my-life/1f4f0983-28df-499c-a744-e9067bf12185/index.html</link>
-            <guid isPermaLink="false">1f4f0983-28df-499c-a744-e9067bf12185</guid>
-            <pubDate>Wed, 10 Feb 2016 18:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Excited to use The Grid</p>]]></description>
-            <link>https://thegrid.ai/it-s-my-life/76742f41-7ad7-4093-9a68-8ef09613d53f/index.html</link>
-            <guid isPermaLink="false">76742f41-7ad7-4093-9a68-8ef09613d53f</guid>
-            <pubDate>Wed, 10 Feb 2016 18:02:29 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 10 Feb 2016 18:00:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jogo Jogo]]></title>
             <description><![CDATA[<article><h1>Jogo Jogo</h1><p>Jogo Circus Animals Do you know why Circus Animals need to finish their food? Jogo Monkey business Expected spring (2016) Jogo Jolly Jumping Frogs Expected summer (2016) Jogo Crazy Sheepinezz Expected fall 2016 Jogo Circus Animals is tested with, what we believe is the most critical jury: 4 year olds :-) Jogo Jogo Company is a group of creative and overall outstanding people who focus on developing apps for children.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e333469b2c8542cfa26352599e7ebba3010fc39b.jpg"></article>]]></description>
